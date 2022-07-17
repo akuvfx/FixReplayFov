@@ -1,8 +1,8 @@
-# Fix Replay Fov
+# Installation
 
-A plugin for Rocket League that fixes FOV going crazy in replays.
-
-### [Download](https://github.com/akuvfx/FixReplayFov/releases/download/0.1.0/FixReplayFovPlugin.dll)
+- Download latest version from [releases page](https://github.com/akuvfx/FixReplayFov/releases).
+- Put `FixReplayFovPlugin.dll` in bakkesmod's plugins folder.
+- Load plugin in game: `plugin load FixReplayFovPlugin`.
 
 # Usage
 
